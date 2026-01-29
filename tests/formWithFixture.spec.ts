@@ -1,4 +1,4 @@
-import { test, expect} from '../tests/pages/fixtureForms';
+import { test, expect} from './pages/fixtureForms';
 import { FormsPage } from './pages/form';
 
 test(' formulaire rempli', async ({ formulaire}) => {
